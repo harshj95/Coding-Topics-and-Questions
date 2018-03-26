@@ -1,4 +1,4 @@
-package com.example.practice.self;
+package self;
 
 public class Single {
 
