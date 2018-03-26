@@ -1,4 +1,4 @@
-package com.example.practice.hackerrank;
+package hackerrank;
 /*
 For the purposes of this challenge, we define a binary search tree to be a binary tree with the following ordering properties:
 
@@ -8,7 +8,6 @@ The data value of every node in a node's right subtree is greater than the data 
 Constraints
 0 <= data <= 10,000
 */
-
 
 public class IsBinarySearchTree {
 
