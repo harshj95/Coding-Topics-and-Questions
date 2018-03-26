@@ -18,8 +18,7 @@ public class IsBinarySearchTree {
         Node right;
     }
 //MY FUNCTION. Cleared 7/13 test cases. What I was not accounting for was the data constraints [0, 10000]
-    boolean checkBST(Node root)
-    {
+    boolean checkBST(Node root) {
         if(root==null)
         {
             return false;
