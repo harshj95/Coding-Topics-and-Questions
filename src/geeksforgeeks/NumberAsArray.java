@@ -8,7 +8,7 @@ Preset conditions
 
 Asked in Google Interview
 
-This is my solution off the top of my head. There is a more optimal solution.
+This is my solution off the top of my getHead. There is a more optimal solution.
 Complexity: O(2n) = O(n)
 
 There is a much more shorter solution, although it has the same time complexity. But this is easier to understand stepwise and clearly differentiates different test cases;
