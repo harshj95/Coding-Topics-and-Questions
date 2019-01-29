@@ -1,5 +1,7 @@
 package datastructures;
 
+import java.util.HashMap;
+
 public class BinarySearchTree {
 
     TreeNode root;
