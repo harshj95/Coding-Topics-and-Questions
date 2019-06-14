@@ -4,7 +4,7 @@ import utils.CommonLib;
 
 public class QuickSort {
 
-    private static int arr[] = {7, 6, 5, 4, 1, 2};
+    private static int[] arr = {7, 6, 5, 4, 1, 2};
 
     public static void main(String[] args) {
 
